@@ -1,0 +1,31 @@
+{
+  "name": "frontend_proj",
+  "version": "1.0.0",
+  "description": "frontend",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiraxe/test.git"
+  },
+  "keywords": [
+    "frontend"
+  ],
+  "author": "kiraxe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiraxe/test/issues"
+  },
+  "homepage": "https://github.com/kiraxe/test#readme",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "webpack": "^2.3.3"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-plugin-react": "^6.10.3"
+  }
+}
